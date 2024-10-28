@@ -193,7 +193,7 @@
 			},
 			"h5": {
 				"typography": {
-					"fontSize": "var:preset|font-size|medium"
+					"fontSize": "var:preset|font-size|small"
 				}
 			},
 			"h6": {
